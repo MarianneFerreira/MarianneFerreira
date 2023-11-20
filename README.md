@@ -1,7 +1,7 @@
-#### Olá,  👋 Sejam todos bem-vindos 
+### Olá,  👋 Sejam todos bem-vindos 
 
 Meu nome é **Marianne**, tenho 31 anos e sou do Rio de janeiro .
-- 🔭 Análista De Desenvolvimento de Sistema
+- 🔭 Análista de Desenvolvimento de Sistemas
 - 📫 **Instagram** @eu.desenvolvedora
 - 🌱 Sou desenvolvedora front-end apaixonada pelo mundo tech.
 
