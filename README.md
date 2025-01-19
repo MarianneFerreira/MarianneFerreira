@@ -2,6 +2,7 @@
 
 Meu nome é **Marianne**, tenho 31 anos e sou do Rio de janeiro .
 - 🔭 Análista de Desenvolvimento de Sistemas
+- Pós graduada em Ciência de Dados e IA
 - 📫 **Instagram** @eu.desenvolvedora
 - 🌱 Sou desenvolvedora front-end apaixonada pelo mundo tech.
 
